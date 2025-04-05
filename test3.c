@@ -7,6 +7,9 @@ void*	routine()
 {
 	int	f = 0;
 	while (f++ < 100000)
+		// read i
+		// increment i
+		// write i
 		i++;
 	return (NULL);
 }
